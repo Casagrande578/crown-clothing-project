@@ -13,4 +13,4 @@ const Directory = () =>{
       </div>)
 }
 
-export default Directory
+export default Directory;
